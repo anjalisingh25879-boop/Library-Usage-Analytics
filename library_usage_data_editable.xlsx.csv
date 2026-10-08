@@ -1,0 +1,21 @@
+transaction,borrow_date,book_id,category,member_id,member_type,due_date,return_date,days_borrowed,return_status
+T0845,02-01-2026,B263,Competitive Exams,M055,Faculty,23-01-2026,09-01-2026,7,On Time
+T0846,02-01-2026,B049,Mathematics,M132,Student,25-01-2026,14-01-2026,12,On Time
+T0381,02-01-2026,B050,Technology,M059,Student,19-01-2026,24-01-2026,22,Late
+T0901,02-01-2026,B280,History,M008,Student,17-01-2026,08-01-2026,6,On Time
+T0773,02-01-2026,B123,Technology,M194,Faculty,23-01-2026,21-01-2026,19,On Time
+T0104,03-01-2026,B150,Biography,M020,Researcher,27-01-2026,21-01-2026,18,On Time
+T0465,03-01-2026,B060,Competitive Exams,M027,Faculty,24-01-2026,18-01-2026,15,On Time
+T0575,03-01-2026,B215,Competitive Exams,M028,Student,31-01-2026,20-01-2026,17,On Time
+T0707,03-01-2026,B124,Mathematics,M005,Faculty,25-01-2026,29-01-2026,26,Late
+T0303,04-01-2026,B054,Competitive Exams,M034,Student,25-01-2026,02-02-2026,29,Late
+T0801,05-01-2026,B038,Science,M171,Staff,29-01-2026,20-01-2026,15,On Time
+T0790,05-01-2026,B297,Mathematics,M149,Student,24-01-2026,02-02-2026,28,Late
+T0410,06-01-2026,B213,Science,M186,Researcher,31-01-2026,10-01-2026,4,On Time
+T0839,06-01-2026,B084,Competitive Exams,M013,Student,30-01-2026,30-01-2026,24,On Time
+T0889,06-01-2026,B200,Competitive Exams,M021,Faculty,28-01-2026,01-02-2026,26,Late
+T0478,07-01-2026,B213,Technology,M072,Staff,29-01-2026,01-02-2026,25,Late
+T0415,07-01-2026,B094,Competitive Exams,M047,Student,31-01-2026,16-01-2026,9,On Time
+T0540,08-01-2026,B298,Fiction,M029,Faculty,02-02-2026,28-01-2026,20,On Time
+T0300,08-01-2026,B254,Biography,M037,Student,28-01-2026,04-02-2026,27,Late
+T0233,08-01-2026,B090,Fiction,M031,Faculty,04-02-2026,23-01-2026,15,On Time
